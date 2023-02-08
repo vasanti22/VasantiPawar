@@ -1,8 +1,9 @@
 # VasantiPawar
-<h1 align="center"> Hi there :wave: </h1>
+<h3 align="center"> Hi there :wave: </h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/>
-  <div id="badges">
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="300"/>
+
+  <div id="badges" style="padding-top: 20px;">
     <a href="https://www.linkedin.com/in/vasanti-p-82484a64" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
