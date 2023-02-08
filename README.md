@@ -1,5 +1,5 @@
 # VasantiPawar
-<h1> Hi there :wave: </h1>
+<h1 align="center"> Hi there :wave: </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="100"/>
   <div id="badges">
