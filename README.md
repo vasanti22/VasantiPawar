@@ -5,7 +5,7 @@
 </div>  
   <p> - 👋 Hello, I’m Vasanti Pawar </p> 
   <p> - 👀 I’m a Frontend Developer.</p> 
-  <p> - 🌱 I have total 8 years of experience in IT. I am actively looking for job in Poland.</p> 
+  <p> - 🌱 I have total 8 years of experience in IT. I am actively looking for job in Germany</p> 
   <p> - 💞️ Love to talk about Research and Innovation!</p> 
   <p> - 📫 How to reach me - Email: <a href="mailto:vasanti.vvp@gmail.com">vasanti.vvp@gmail.com</a> OR https://www.linkedin.com/in/vasanti-p-82484a64</p> 
 
