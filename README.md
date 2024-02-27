@@ -15,11 +15,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.xing.com/profile/Vasanti_Pawar/web_profiles">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=xing&logoColor=white" alt="XING Badge"/>
+      <img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=xing&logoColor=white" alt="XING Badge"/>
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Xing Badge"/>
-    </a>
+    
   </div>
   <img src="https://komarev.com/ghpvc/?username=vasanti22&style=flat-square&color=blue" alt="Profile Views"/>
 
